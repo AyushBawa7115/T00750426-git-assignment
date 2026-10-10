@@ -1,0 +1,2 @@
+design test cases for user login and registration.
+check valid inputs, invalid inputs, and error messages.
